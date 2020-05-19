@@ -17,5 +17,7 @@ CREATE TABLE public.boot_tb
   username character varying DEFAULT 'username'
 );
 
+Followed Link:
+https://www.youtube.com/watch?v=iDogrHEo4x0&t=506s
 
 Thanks
